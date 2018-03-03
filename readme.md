@@ -1,4 +1,4 @@
---- Lamb's Extended Weapons Mod ---
+--- Lamb's Restored Weapons Mod ---
 
 This 'Into The Breach' mod restores weapons cut during development, as well as adds new ones.
 
